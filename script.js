@@ -62,7 +62,7 @@ const weatherIcons = {
 
 // API Configuration
 const API_CONFIG = {
-    baseUrl: 'http://localhost:8080',
+    baseUrl: 'https://weather-app-production-017d.up.railway.app',
     endpoint: '/weather/forecast'
 };
 
